@@ -50,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2699-count-the-number-of-fair-pairs](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
