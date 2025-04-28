@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [1656-count-good-triplets](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2249-count-the-hidden-sequences](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2050-count-good-numbers) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2998-count-symmetric-integers](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3548-find-the-count-of-good-integers](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3548-find-the-count-of-good-integers) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
 ## String
@@ -139,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
+## Matrix
+|  |
+| ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->
