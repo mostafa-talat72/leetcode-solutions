@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
+| [1656-count-good-triplets](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1656-count-good-triplets) |
 | [2249-count-the-hidden-sequences](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0038-count-and-say) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
