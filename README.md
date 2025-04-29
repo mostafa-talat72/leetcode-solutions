@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2465-shifting-letters-ii](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2465-shifting-letters-ii](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2465-shifting-letters-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2465-shifting-letters-ii](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2465-shifting-letters-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
