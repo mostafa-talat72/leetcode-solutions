@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2478-longest-nice-subarray) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2551-apply-operations-to-an-array](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3430-count-days-without-meetings) |
@@ -322,5 +325,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 <!---LeetCode Topics End-->
