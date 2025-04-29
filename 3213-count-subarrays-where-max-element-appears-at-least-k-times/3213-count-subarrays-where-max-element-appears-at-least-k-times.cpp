@@ -20,9 +20,9 @@ public:
 
     while (r < mxNums.size())
     {
-        long long left = l == 0 ? mxNums[l] : mxNums[l] - mxNums[l - 1] - 1;
-        long long right = n - mxNums[r] - 1; 
-        ans += 1 + left + right + left * right;
+        int left = l == 0 ? mxNums[l] : mxNums[l] - mxNums[l - 1] - 1;
+        int right = n - mxNums[r] - 1; 
+        ans += 1 + left + right + 1LL * left * right;
         l++;
         r++;
     }
