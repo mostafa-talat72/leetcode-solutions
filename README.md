@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0038-count-and-say) |
+| [1170-shortest-common-supersequence](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [1170-shortest-common-supersequence](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1170-shortest-common-supersequence) |
 | [2262-solving-questions-with-brainpower](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2262-solving-questions-with-brainpower) |
 ## Recursion
 |  |
