@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0368-largest-divisible-subset](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
+| [0407-trapping-rain-water-ii](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0854-making-a-large-island) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0684-redundant-connection](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0854-making-a-large-island) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1876-map-of-highest-peak) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [2434-design-a-number-container-system](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
