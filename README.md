@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1656-count-good-triplets](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2249-count-the-hidden-sequences](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -181,5 +185,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
