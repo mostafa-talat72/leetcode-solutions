@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [2232-adding-spaces-to-a-string](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0368-largest-divisible-subset](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0780-max-chunks-to-make-sorted](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -465,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0780-max-chunks-to-make-sorted](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
