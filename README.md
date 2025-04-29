@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0001-two-sum) |
+| [0138-copy-list-with-random-pointer](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0146-lru-cache) |
 ## Doubly-Linked List
 |  |
