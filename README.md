@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1558-course-schedule-iv) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [1558-course-schedule-iv](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1558-course-schedule-iv) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2793-count-the-number-of-complete-components](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2793-count-the-number-of-complete-components) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1558-course-schedule-iv](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1558-course-schedule-iv) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Queue
 |  |
 | ------- |
