@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2262-solving-questions-with-brainpower) |
+| [2562-count-ways-to-build-good-strings](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2562-count-ways-to-build-good-strings) |
 ## Recursion
 |  |
 | ------- |
