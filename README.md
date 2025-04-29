@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2665-minimum-time-to-repair-cars) |
@@ -193,15 +194,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
