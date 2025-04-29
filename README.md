@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1063-best-sightseeing-pair](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1063-best-sightseeing-pair) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1502-construct-k-palindrome-strings](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2456-construct-smallest-number-from-di-string) |
