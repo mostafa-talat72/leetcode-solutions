@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0952-word-subsets) |
+| [1025-minimum-cost-for-tickets](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1025-minimum-cost-for-tickets](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1170-shortest-common-supersequence](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
