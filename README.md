@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
+| [1396-count-servers-that-communicate](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1656-count-good-triplets) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0854-making-a-large-island) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1558-course-schedule-iv) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0854-making-a-large-island) |
+| [1396-count-servers-that-communicate](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0854-making-a-large-island) |
+| [1396-count-servers-that-communicate](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2793-count-the-number-of-complete-components) |
@@ -353,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
+| [1396-count-servers-that-communicate](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
