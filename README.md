@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1656-count-good-triplets](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1656-count-good-triplets) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1500-count-largest-group) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Stack
 |  |
@@ -246,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
