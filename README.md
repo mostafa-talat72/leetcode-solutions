@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3429-special-array-i](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3463-alternating-groups-i](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3463-alternating-groups-i) |
