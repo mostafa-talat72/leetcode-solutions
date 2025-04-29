@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Two Pointers
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Enumeration
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2107-find-unique-binary-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
