@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2649-count-total-number-of-colored-cells) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
