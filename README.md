@@ -10,6 +10,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | [0015-3sum](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0054-spiral-matrix) |
@@ -308,6 +309,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0055-jump-game) |
 | [0768-partition-labels](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -440,6 +442,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | [0005-longest-palindromic-substring](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
