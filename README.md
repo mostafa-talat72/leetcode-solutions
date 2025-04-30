@@ -509,6 +509,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | [0032-longest-valid-parentheses](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0155-min-stack](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0394-decode-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -637,6 +638,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
