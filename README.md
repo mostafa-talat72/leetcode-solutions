@@ -22,6 +22,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -286,6 +287,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | [0007-reverse-integer](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -338,6 +340,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | [0142-linked-list-cycle-ii](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
