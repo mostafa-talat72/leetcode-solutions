@@ -413,6 +413,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3447-clear-digits) |
