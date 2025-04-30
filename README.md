@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0368-largest-divisible-subset](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2868-continuous-subarrays](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -604,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0407-trapping-rain-water-ii](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -677,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [2868-continuous-subarrays](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2868-continuous-subarrays) |
 ## Eulerian Circuit
 |  |
