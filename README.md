@@ -71,6 +71,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | [2145-grid-game](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2164-two-best-non-overlapping-events) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
@@ -147,6 +148,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2164-two-best-non-overlapping-events) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -338,6 +340,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | [1468-check-if-n-and-its-double-exist](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2164-two-best-non-overlapping-events) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
