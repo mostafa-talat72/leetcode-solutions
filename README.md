@@ -309,6 +309,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | [0141-linked-list-cycle](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -423,6 +424,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0234-palindrome-linked-list](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2050-count-good-numbers) |
 ## Combinatorics
@@ -544,6 +546,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | [0042-trapping-rain-water](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -756,6 +759,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | [0142-linked-list-cycle-ii](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
