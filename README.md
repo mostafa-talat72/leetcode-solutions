@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3463-alternating-groups-i](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3483-alternating-groups-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-zero-array-transformation-ii](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3643-zero-array-transformation-ii) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2793-count-the-number-of-complete-components](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
 |  |
 | ------- |
