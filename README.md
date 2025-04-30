@@ -169,6 +169,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | ------- |
 | [0076-minimum-window-substring](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -227,6 +228,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | [0208-implement-trie-prefix-tree](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0797-rabbits-in-forest](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -370,6 +372,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | [0208-implement-trie-prefix-tree](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0394-decode-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0952-word-subsets](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1160-letter-tile-possibilities) |
