@@ -308,6 +308,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | [0075-sort-colors](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0148-sort-list) |
 | [0287-find-the-duplicate-number](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -327,6 +328,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | [0015-3sum](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
@@ -672,6 +674,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | ------- |
 | [0053-maximum-subarray](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0148-sort-list](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Design
@@ -752,6 +755,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | [0141-linked-list-cycle](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0148-sort-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -782,4 +786,8 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0787-sliding-puzzle) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
