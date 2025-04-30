@@ -547,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2564-most-profitable-path-in-a-tree](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2793-count-the-number-of-complete-components](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2793-count-the-number-of-complete-components) |
+| [3189-find-champion-ii](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3189-find-champion-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
