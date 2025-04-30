@@ -72,6 +72,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -543,6 +544,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | [2089-maximum-matrix-sum](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2685-first-completely-painted-row-or-column](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -613,6 +615,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2551-apply-operations-to-an-array](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
