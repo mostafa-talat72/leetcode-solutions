@@ -275,6 +275,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0048-rotate-image) |
@@ -444,6 +445,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
@@ -783,6 +785,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
