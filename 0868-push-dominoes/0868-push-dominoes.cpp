@@ -10,10 +10,10 @@ public:
             continue;
         if (dominoes[i] == 'L')
         {
-            if (last == -1)
+            if (last == -1 || dominoes[last]=='L')
             {
-                pre[0] += -1;
                 pre[i + 1] += 1;
+                pre[last + 1] += -1;
             }
             else if (last > -1 && dominoes[last] == 'R')
             {
@@ -22,12 +22,7 @@ public:
                 pre[i - mid] += -1;
                 pre[last + mid + 1] += -1;
 			}
-            else
-            {
-                pre[i + 1] += 1;
-                pre[last + 1] += -1;
-            }
-           
+             
         }
         else if (dominoes[i] == 'R')
         {
@@ -39,12 +34,13 @@ public:
         last = i;
 
     }
+    if (pre[0] > 0)
+        dominoes[0] = 'R';
+    else if (pre[0] < 0)
+        dominoes[0] = 'L';  
     for (int i = 1; i < n ; ++i)
     {
         pre[i] += pre[i - 1];
-    }
-    for (int i = 0; i < n; ++i)
-    {
         if (pre[i] > 0)
             dominoes[i] = 'R';
         else if (pre[i] < 0)
