@@ -348,6 +348,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | [0287-find-the-duplicate-number](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0768-partition-labels](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0868-push-dominoes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -401,6 +402,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | [0438-find-all-anagrams-in-a-string](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0768-partition-labels](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1160-letter-tile-possibilities) |
@@ -461,6 +463,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | [0494-target-sum](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0787-sliding-puzzle](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0787-sliding-puzzle) |
+| [0868-push-dominoes](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1063-best-sightseeing-pair) |
