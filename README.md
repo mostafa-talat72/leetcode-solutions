@@ -44,6 +44,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | [0952-word-subsets](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1063-best-sightseeing-pair](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -318,6 +319,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | [0768-partition-labels](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1502-construct-k-palindrome-strings](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1917-maximum-average-pass-ratio) |
