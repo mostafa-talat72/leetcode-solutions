@@ -1,25 +1,27 @@
 class Solution {
 public:
-   int dp[1001];
+   long long dp[1001];
 int mod = 1e9 + 7;
-int module(int num, int dpp) { return (num % mod + dpp % mod) % mod; }
-int solve(int i, int n)
-    { 
+int solve(int i,int n) { 
 	if (i > n)
         return 0;
     if (i == n)
         return 1;
-    if (~dp[i])
-        return dp[i];
-    dp[i] = 0;
-    dp[i] = module(dp[i], solve(i + 1, n));
-    dp[i] = module(dp[i], solve(i + 2, n));
+    long long & ret = dp[i];
+    if (~ret)
+        return ret;
+    ret = 0;
+    ret += solve(i + 1, n);
+    ret += solve(i + 2, n);
     for (int j = 3; j <= n; j++)
     {
-       dp[i] = module(dp[i], solve(i + j, n));
-       dp[i] = module(dp[i], solve(i + j, n));
+        if (i + j > n)
+            break;
+        int resp = solve(i + j, n);
+        ret += resp * 2;
     }
-    return dp[i];
+    ret %= mod;
+    return ret;
 }
  int numTilings(int n) {
 
