@@ -1,24 +1,29 @@
 class Solution {
 public:
-    int dpNumTilings(int i, int& n, vector<int>& dp, int mod = 1e9 + 7) {
-	if (i > n) return 0;
-
-	if (i == n) return 1;
-	if (~dp[i])return dp[i];
-	dp[i] = dpNumTilings(i + 1, n, dp) % mod;
-	dp[i] %= mod;
-	dp[i] += dpNumTilings(i + 2, n, dp) % mod;
-	dp[i] %= mod;
-	for (int j = 3; j + i <= n; j++)
-	{
-		dp[i] += 2* dpNumTilings(i + j, n, dp) % mod;
-		dp[i] %= mod;
-	}
-	return dp[i];
+   int dp[1001];
+int mod = 1e9 + 7;
+int module(int num, int dpp) { return (num % mod + dpp % mod) % mod; }
+int solve(int i, int n)
+    { 
+	if (i > n)
+        return 0;
+    if (i == n)
+        return 1;
+    if (~dp[i])
+        return dp[i];
+    dp[i] = 0;
+    dp[i] = module(dp[i], solve(i + 1, n));
+    dp[i] = module(dp[i], solve(i + 2, n));
+    for (int j = 3; j <= n; j++)
+    {
+       dp[i] = module(dp[i], solve(i + j, n));
+       dp[i] = module(dp[i], solve(i + j, n));
+    }
+    return dp[i];
 }
-int numTilings(int n) {
-	vector<int> dp(n + 1, -1);
+ int numTilings(int n) {
 
-	return dpNumTilings(0,  n, dp);
-}
+	memset(dp, -1, sizeof dp);
+     return solve(0, n);
+ }
 };
