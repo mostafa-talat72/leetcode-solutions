@@ -18,8 +18,10 @@ int minTimeToReach(vector<vector<int>>& moveTime)
         int time = -top.first;
         int i = top.second.first;
         int j = top.second.second;
+        if (!(i == 0 && j == 0) && time > vis[i][j])
+            continue;
         if (i == n - 1 && j == m - 1)
-            ans = min(ans, time);
+            return time;
         for (int k = 0; k < 4; k++)
         {
             int ni = i + dr[k];
@@ -37,6 +39,5 @@ int minTimeToReach(vector<vector<int>>& moveTime)
 
 	}
     return ans;
-
 }
 };
