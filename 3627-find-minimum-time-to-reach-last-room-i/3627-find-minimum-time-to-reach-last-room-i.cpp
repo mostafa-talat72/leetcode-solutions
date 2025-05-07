@@ -7,8 +7,7 @@ int minTimeToReach(vector<vector<int>>& moveTime)
 { 
 	int n = moveTime.size(), m = moveTime[0].size();
     memset(vis, 0, sizeof(vis));
-    priority_queue < pair<int, pair<int, int>>, vector<pair<int, pair<int, int>>>,
-        greater<pair<int, pair<int, int>>>> pq;
+    priority_queue < pair<int, pair<int, int>>> pq;
     pq.push({0, {0, 0}});
     vis[0][0] = 1;
     int ans = 2e9;
@@ -16,7 +15,7 @@ int minTimeToReach(vector<vector<int>>& moveTime)
     {
         auto top = pq.top();
         pq.pop();
-        int time = top.first;
+        int time = -top.first;
         int i = top.second.first;
         int j = top.second.second;
         if (i == n - 1 && j == m - 1)
@@ -31,7 +30,7 @@ int minTimeToReach(vector<vector<int>>& moveTime)
                 if (!vis[ni][nj] || newTime < vis[ni][nj])
                 {
                     vis[ni][nj] = newTime;
-                    pq.push({newTime, {ni, nj}});
+                    pq.push({-newTime, {ni, nj}});
                 }
             }
 		}
