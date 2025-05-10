@@ -2,7 +2,7 @@ class Solution {
 public:
    long long minSum(vector<int>& nums1, vector<int>& nums2) {
     
-    long long l = 1, r = 1e11, mid;
+    long long l = 1, r = 1e12, mid;
     long long sum1 = 0, sum2 = 0, zero1 = 0, zero2 = 0;
     for (auto it : nums1)
     {
