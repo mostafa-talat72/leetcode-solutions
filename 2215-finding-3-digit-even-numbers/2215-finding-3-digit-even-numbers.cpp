@@ -24,17 +24,10 @@ public:
     digits = duplic;
     for (int i = 0; i < digits.size(); i++)
     {
-        if (digits[i] & 1)
-            continue;
-        for (int j = 0; j < digits.size(); j++)
+        for (int j = i + 1; j < digits.size(); j++)
         {
-
-            if (i == j)
-                continue;
-            for (int k = 0; k < digits.size(); k++)
+            for (int k = j + 1; k < digits.size(); k++)
             {
-                if (k == i || k == j)
-                    continue;
                 vector<int> tst = {digits[i], digits[j], digits[k]};
                 sort(tst.begin(), tst.end());
                 do
