@@ -21,14 +21,13 @@ public:
             duplic.push_back(digits[i]);
     }
 
-    digits = duplic;
-    for (int i = 0; i < digits.size(); i++)
+    for (int i = 0; i < duplic.size(); i++)
     {
-        for (int j = i + 1; j < digits.size(); j++)
+        for (int j = i + 1; j < duplic.size(); j++)
         {
-            for (int k = j + 1; k < digits.size(); k++)
+            for (int k = j + 1; k < duplic.size(); k++)
             {
-                vector<int> tst = {digits[i], digits[j], digits[k]};
+                vector<int> tst = {duplic[i], duplic[j], duplic[k]};
                 sort(tst.begin(), tst.end());
                 do
                 {
