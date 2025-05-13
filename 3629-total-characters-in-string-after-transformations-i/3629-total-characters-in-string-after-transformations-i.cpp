@@ -1,41 +1,6 @@
 class Solution {
 public:
-    vector<int> getRemovableIndices(string str1, string str2)
-{
-    vector<int> ans;   
-    string s1 = "", s2 = "";
-    int n = str1.size();
-    reverse(str1.begin(), str1.end());
-    reverse(str2.begin(), str2.end());
-    char del ='_';
-	 for (int i = n-1; i >= 0 && str2.size(); i--)
-     {
-         if (i != n - 1)
-         {
-             char newCh = del;
-             del = str1.back();
-             str1.pop_back();
-             s1.push_back(newCh);
-             if (s1.size() > s2.size())
-             {
-                 s2.push_back(str2.back());
-                 str2.pop_back();
-             }
-         }else
-         {
-             del = str1.back();
-             str1.pop_back();
-         }
-			
-		 if (str1 == str2 && s1 == s2)
-             ans.push_back(n - i - 1);
-	 }
-     if (ans.empty())
-         ans.push_back(-1);
-     return ans;
-
-}
-int lengthAfterTransformations(string s, int t) {
+    int lengthAfterTransformations(string s, int t) {
     
 
     int fr[26] = {0}, inc[26] = {0};
@@ -46,6 +11,8 @@ int lengthAfterTransformations(string s, int t) {
     {
         for (int i = 0; i < 26; i++)
         {
+            if (!inc[i])
+                continue;
             fr[i] += inc[i];
             if (fr[i] >= mod)
                 fr[i] -= mod;
@@ -54,6 +21,8 @@ int lengthAfterTransformations(string s, int t) {
         
         for (int i = 0; i < 26; i++)
         {
+            if (!fr[i])
+                continue;
             if (i == 25)
             {
                 inc[0] += fr[i];
@@ -76,6 +45,8 @@ int lengthAfterTransformations(string s, int t) {
     int ans = 0;
     for (int i = 0;i < 26;i++)
     {
+        if (!inc[i])
+            continue;
         ans += inc[i];
         if (ans >= mod)
             ans -= mod;
