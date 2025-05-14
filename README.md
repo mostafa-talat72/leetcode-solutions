@@ -298,6 +298,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Math
 |  |
@@ -328,6 +329,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | [3548-find-the-count-of-good-integers](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Greedy
 |  |
@@ -467,6 +469,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | [3455-minimum-length-of-string-after-operations](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Enumeration
 |  |
@@ -507,6 +510,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | [2554-minimum-total-distance-traveled](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2562-count-ways-to-build-good-strings) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Recursion
 |  |
@@ -764,6 +768,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Simulation
 |  |
 | ------- |
