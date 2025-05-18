@@ -508,6 +508,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2164-two-best-non-overlapping-events](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2554-minimum-total-distance-traveled](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/2554-minimum-total-distance-traveled) |
