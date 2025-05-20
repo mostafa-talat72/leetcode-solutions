@@ -1,14 +1,11 @@
 class Solution {
 public:
     bool isZeroArray(vector<int>& nums, vector<vector<int>>& queries) { 
-    
-    
     vector<int> pref(nums.size() + 1, 0);
-    while (queries.size())
+    for (int i = 0; i < queries.size(); i++)
     {
-        pref[queries.back()[0]] += 1;
-        pref[queries.back()[1] + 1] -= 1;
-        queries.pop_back();
+        pref[queries[i][0]] += 1;
+        pref[queries[i][1] + 1] -= 1;
     }
     nums[0] -= pref[0];
     if (nums[0] > 0)
