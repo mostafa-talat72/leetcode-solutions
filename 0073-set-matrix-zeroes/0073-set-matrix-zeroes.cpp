@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void setZeroes(vector<vector<int>>& matrix) {
+void setZeroes(vector<vector<int>>& matrix) {
     unordered_set<int> row, column;
     for (int i = 0; i < matrix.size();i++)
     {
@@ -15,8 +15,7 @@ public:
     }
     for (auto it : row)
     {
-        for (int i = 0; i < matrix[0].size(); i++)
-            matrix[it][i] = 0;
+        fill(matrix[it].begin(), matrix[it].end(), 0);
     }
     for (auto it : column)
     {
