@@ -12,11 +12,11 @@ struct Compare
 };
 class Solution {
 public:
-    string clearStars(string s)
+   
+string clearStars(string s)
 { 
 
     priority_queue<pair<char, int>, vector<pair<char, int>>, Compare> pq;
-    int n = s.size();
     for (int i=0;i<s.size();i++) {
 		if (s[i] != '*') {
             pq.push({s[i], i});
@@ -28,8 +28,12 @@ public:
             pq.pop();
         }
     }
-    s.erase(remove(s.begin(), s.end(), ' '), s.end());
-
-	return s;
+    string ans = "";
+    for (auto it :s) {
+		if (it != ' ') {
+			ans += it;
+		}
+    }
+	return ans;
 }
 };
