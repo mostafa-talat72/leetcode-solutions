@@ -10,24 +10,16 @@ public:
         }
         else
         {
+            s[i] = ' ';
+            s[mp.begin()->second.back()] = ' ';
             mp.begin()->second.pop_back();
             if (mp.begin()->second.empty()) {
 				mp.erase(mp.begin());
             }
-            n -= 2;
         }
     }
+    s.erase(remove(s.begin(), s.end(), ' '), s.end());
 
-	string ans = "";
-    vector<int> idxs;
-	for (auto& [c, v] : mp) {
-		for (int i : v) {
-            idxs.push_back(i);
-		}
-	}
-    sort(idxs.begin(), idxs.end());
-	for (int i = 0; i < idxs.size(); i++) 
-        ans += s[idxs[i]];
-    return ans;
+	return s;
 }
 };
