@@ -1,18 +1,16 @@
+bool compare(int a,int b)
+{ 
+	return to_string(a)< to_string(b);
+}
 class Solution {
 public:
-    vector<int> lexicalOrder(int n)
-{ 
+   
+
+vector<int> lexicalOrder(int n) { 
 	
-	set<string> s;
-	for (int i = 1; i <= n; i++)
-	{
-		s.insert(to_string(i));
-    }
-    vector<int> ans;
-	for (auto it : s)
-	{
-		ans.push_back(stoi(it));
-    }
+	vector<int> ans(n); 
+	iota(ans.begin(), ans.end(), 1);
+    sort(ans.begin(), ans.end(), compare);
     return ans;
 }
 };
