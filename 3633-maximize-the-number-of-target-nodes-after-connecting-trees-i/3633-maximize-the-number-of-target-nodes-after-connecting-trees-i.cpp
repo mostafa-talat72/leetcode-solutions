@@ -9,8 +9,9 @@ public:
 	while (!q.empty()) {
         auto [node, depth] = q.front();
         q.pop();
-        if (depth <= k)
-            ret++;
+        if (depth > k)
+            continue;
+        ret++;
         for (int neighbor : edges[node]) {
 			if (!visited[neighbor] && depth + 1 <= k) {
 				visited[neighbor] = true;
