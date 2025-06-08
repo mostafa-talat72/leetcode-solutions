@@ -619,6 +619,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0207-course-schedule](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0386-lexicographical-numbers](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
@@ -917,6 +918,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0386-lexicographical-numbers](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
