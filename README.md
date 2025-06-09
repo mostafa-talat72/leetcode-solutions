@@ -922,6 +922,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
