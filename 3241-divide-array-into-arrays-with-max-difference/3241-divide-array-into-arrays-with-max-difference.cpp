@@ -6,8 +6,7 @@ public:
 	vector<vector<int>> ans;
 	for (int i = 0; i < nums.size(); i+=3) {
         if (nums[i+2] - nums[i] > k) {
-            ans.clear();
-			break;
+            return {};
         }
         vector<int> temp;
         for (int j=0;j<3;j++) {
