@@ -2,19 +2,16 @@ class Solution {
 public:
     int findLucky(vector<int>& arr)
 {
-    string word = "a";
-    unordered_map<int, int> mp;
-	for (int i = 0; i < arr.size(); i++)
-	{
-		mp[arr[i]]++;
-    }
+    sort(arr.begin(), arr.end());
     int ans = -1;
-	for (auto it : mp)
-	{
-		if (it.first == it.second)
-		{
-			ans = max(ans, it.first);
-		}
+    for (int i = 0; i < arr.size(); i)
+    {
+        int idx = upper_bound(arr.begin() + i, arr.end(), arr[i]) - arr.begin();
+        if (arr[i] == idx - i)
+        {
+            ans = arr[i];
+        }
+        i = idx;
     }
     return ans;
 }
