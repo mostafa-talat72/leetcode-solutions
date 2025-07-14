@@ -356,6 +356,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | [0189-rotate-array](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1500-count-largest-group) |
@@ -1043,6 +1044,7 @@ LeetCode Account: [Mostafa_Tal3t](https://leetcode.com/u/Mostafa_Tal3t/)
 | [0148-sort-list](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mostafa-talat72/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Doubly-Linked List
 |  |
 | ------- |
