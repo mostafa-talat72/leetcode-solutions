@@ -1,14 +1,14 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        set<int>st;
-        int n=nums.size();
-        for(auto it:nums)
-            st.insert(it);
-        nums.clear();
-        for(auto it : st)
-            nums.push_back(it);
-
-        return st.size();
+        int idx=0;
+        for(int i=1;i<nums.size();i++){
+            if(nums[i] != nums[idx])
+            {
+                idx++;
+                nums[idx]=nums[i];
+            }
+        }
+        return idx + 1;
     }
 };
