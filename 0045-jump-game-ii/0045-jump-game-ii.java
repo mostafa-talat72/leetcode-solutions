@@ -1,13 +1,14 @@
 class Solution {
     public int jump(int[] nums)  {
-        int mx = 0, cnt = 0,  curr = 0;
-        for(int i = 0; i < nums.length - 1; i++){
-            mx = Math.max(mx, i + nums[i]);
-            if(i == curr){
-                cnt++;
-                curr = mx;
-            }
-        }
-        return cnt;
+       int[] dp = new int[nums.length];
+       Arrays.fill(dp, Integer.MAX_VALUE);
+       dp[0] = 0;
+       for(int i=0;i<nums.length;i++){
+           for(int j = 0; j <= nums[i] && i + j < nums.length;j++){
+               int next = i + j;
+               dp[next]=Math.min(dp[next], dp[i] + 1);
+           }
+       }
+       return dp[nums.length - 1];
     }
 }
